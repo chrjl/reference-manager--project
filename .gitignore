@@ -1,0 +1,8 @@
+_db/
+server/
+client/
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
